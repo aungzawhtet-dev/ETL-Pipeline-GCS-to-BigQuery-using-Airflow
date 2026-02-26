@@ -21,3 +21,7 @@ Google Cloud Storage (Data Lake / Raw Storage)
 BigQuery (Cloud Data Warehouse)
 Python (Airflow DAG)
 SQL (Data Transformation)
+
+## 🏗 Architecture Diagram
+
+![ETL Architecture](assets/architecture.png)
