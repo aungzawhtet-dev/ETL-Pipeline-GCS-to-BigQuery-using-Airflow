@@ -2,10 +2,10 @@
 # Project Overview
 
 This project demonstrates a cloud-based ETL pipeline that:
-Extracts a CSV file from Google Cloud Storage (GCS)
-Loads data into a raw table in BigQuery
-Transforms the raw data into a curated analytics-ready table
-Uses Apache Airflow as the orchestration tool
+- Extracts a CSV file from Google Cloud Storage (GCS)
+- Loads data into a raw table in BigQuery
+- Transforms the raw data into a curated analytics-ready table
+- Uses Apache Airflow as the orchestration tool.
 The pipeline follows a modern ELT architecture where transformations are executed inside BigQuery.
 
 # Architecture Overview
