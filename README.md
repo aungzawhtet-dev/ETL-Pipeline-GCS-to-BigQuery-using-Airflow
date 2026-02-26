@@ -15,6 +15,7 @@ GCS (house-price.csv)
 → BigQuery Raw Table
 → BigQuery Curated Table
 
+
 # Technologies Used
 Apache Airflow (Workflow Orchestration)
 Google Cloud Storage (Data Lake / Raw Storage)
@@ -22,6 +23,7 @@ BigQuery (Cloud Data Warehouse)
 Python (Airflow DAG)
 SQL (Data Transformation)
 
-## 🏗 Architecture Diagram
+# Architecture Diagram
+<img width="638" height="317" alt="GCS_AF_BigQuery" src="https://github.com/user-attachments/assets/18995b77-1607-4c19-aa67-b6d8def5fd52" />
 
-![ETL Architecture](assets/architecture.png)
+
